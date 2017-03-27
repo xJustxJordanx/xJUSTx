@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+
+body {
+	background: linear-gradient(#624185, transparent 80%) no-repeat,
+				linear-gradient(0deg, #3b2747, transparent 80%) no-repeat,
+				#3b2747 url('imgs/SC2bg.jpg') no-repeat;
+	background-attachment: fixed;
+}
+
+nav {
+	background: #3b2747;
+}
+
+p {
+text-shadow: 2px 8px 6px rgba(0,0,0,0.2),
+                 0px -5px 35px rgba(255,255,255,0.3);
+	
+}
